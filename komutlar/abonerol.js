@@ -1,4 +1,4 @@
-let database = require("wio.db")
+let database = require("quick.db")
 let ayarlar = require("../ayarlar.json")
 
 
